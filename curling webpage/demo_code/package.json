@@ -1,0 +1,16 @@
+{
+  "name": "curling",
+  "version": "1.0.0",
+  "description": "moddules required for curling app",
+  "main": "server.js",
+  "dependencies": {
+    "socket.io": "^2.1.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "server.js",
+    "start": "node server.js"
+  },
+  "author": "Jake Richardson",
+  "license": "ISC"
+}
